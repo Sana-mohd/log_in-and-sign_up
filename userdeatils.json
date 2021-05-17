@@ -1,0 +1,24 @@
+{
+   "user": [
+      {
+         "name": "sana",
+         "password": "Sana@12",
+         "profile": {
+            "description": "I'm sana from Hyd",
+            "dob": "05-12-2003",
+            "hobbies": "sleeping",
+            "gender": "female"
+         }
+      },
+      {
+         "name": "Reena",
+         "password": "Reena@12",
+         "profile": {
+            "description": "I'm from Bihar",
+            "dob": "15-sep-1999",
+            "hobbies": "drawing",
+            "gender": "fe+male"
+         }
+      }
+   ]
+}
